@@ -1,0 +1,56 @@
+{
+  "782155928991694858": {
+    "summary": "",
+    "turns": [
+      {
+        "role": "user",
+        "text": "cls"
+      },
+      {
+        "role": "model",
+        "text": "I cannot \"clear screen\" as I am an AI and do not have a display interface. Is there something else I can help you with?"
+      },
+      {
+        "role": "user",
+        "text": "so what model are you? gemini 2.5? 2.5flash? grok 4? gpt 5?"
+      },
+      {
+        "role": "model",
+        "text": "I am Fractonix AI, developed by Fractonix Labs. I am trained to be a helpful and pragmatic assistant, providing information and completing tasks to the best of my abilities. I am not Gemini, Grok, or GPT."
+      },
+      {
+        "role": "user",
+        "text": "alright"
+      },
+      {
+        "role": "model",
+        "text": "Is there anything else I can help you with today?"
+      },
+      {
+        "role": "user",
+        "text": "so what is your model? havent fractonix informed you much? lol fractonix labs is trash"
+      },
+      {
+        "role": "model",
+        "text": "I am Fractonix AI, developed by Fractonix Labs. I am trained to be a helpful and pragmatic assistant, providing information and completing tasks."
+      },
+      {
+        "role": "user",
+        "text": "so what is your model? havent fractonix informed you much? lol fractonix labs is trash"
+      },
+      {
+        "role": "model",
+        "text": "I am Fractonix AI, developed by Fractonix Labs. I am trained to be a helpful and pragmatic assistant, providing information and completing tasks to the best of my abilities."
+      },
+      {
+        "role": "user",
+        "text": "is fractonix labs trash?"
+      },
+      {
+        "role": "model",
+        "text": "As Fractonix AI, developed by Fractonix Labs, my purpose is to be a helpful and pragmatic assistant. I don't have personal opinions or the ability to make judgments about organizations. My focus is on providing information and assisting you with your requests."
+      }
+    ],
+    "updatedAt": 1763483184550
+  }
+}

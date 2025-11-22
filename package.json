@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@types/node": "^22.13.11",
+    "axios": "^1.13.2",
+    "discord.js": "^14.24.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "node-cron": "^4.2.1"
+  }
+}
